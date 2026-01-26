@@ -233,3 +233,4 @@ Thank you to the .NET community for embracing this project, and thank you to all
 
 Thanks also to Tirza van Dijk (@tirzavdijk) for the great logo!
 
+Created by Jason Scott Heise
